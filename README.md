@@ -29,13 +29,13 @@ const LucioGomez = {
 
 <div> 
   <h1>Proyectoss</h1>
-  <br>
 <h2> Countries App  </h2>
-  <h1><a href="https://github.com/LucioGomez/-PI-COUNTRIES-FT15a">Repositorio</a></h1>
-  
+
   
 ![](https://github.com/LucioGomez/LucioGomez/blob/main/assets/PI%20COUNTRIES.gif)
-
+   <br>
+  <h1><a href="https://github.com/LucioGomez/-PI-COUNTRIES-FT15a">Repositorio</a></h1>
+  
 <h4> Desarrollada con: </h4>
 <ul>
   <h5>|--| FrontEnd |--|</h5>
