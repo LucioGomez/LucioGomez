@@ -47,6 +47,8 @@ const LucioGomez = {
 </ul>
 
 <h3>Vision General:<h3>
+  
 ![](https://github.com/LucioGomez/LucioGomez/blob/main/assets/countries/presentacion.gif)
+  
 </div>
 &nbsp;&nbsp;
