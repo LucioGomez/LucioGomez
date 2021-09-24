@@ -31,9 +31,7 @@ const LucioGomez = {
   <h1>Proyectoss</h1>
   <br>
 <h2> Countries App  </h2>
-  <a href="https://github.com/LucioGomez/-PI-COUNTRIES-FT15a">
-    <h2>Repositorio</h2>
-  </a>
+  <h1><a href="https://github.com/LucioGomez/-PI-COUNTRIES-FT15a">Repositorio</a></h1>
   
   
 ![](https://github.com/LucioGomez/LucioGomez/blob/main/assets/PI%20COUNTRIES.gif)
