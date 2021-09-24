@@ -65,8 +65,7 @@ const LucioGomez = {
     <a >
        <h1>Mail: Luciotony25@gmail.com</h1>
     </a>
-     
-    </a>
+
 <p/>
 
 <hr/>
