@@ -11,6 +11,7 @@
   </p>
   <strong> Espero que esta breve introduccion demuestre un poco de lo que soy capaz: </strong>
 </div>
+
 ```js
 const LucioGomez = {
   Skills: {
