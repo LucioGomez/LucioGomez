@@ -1,4 +1,4 @@
-![](![Hola Soy Lucio](https://github.com/LucioGomez/LucioGomez/blob/main/assets/LucioGomez%20.gif))
+![Hola Soy Lucio](https://github.com/LucioGomez/LucioGomez/blob/main/assets/LucioGomez%20.gif)
 
 <h1 align="center"> Hola, Mi nombre es Lucio 👋 :computer: </h1>
 
@@ -43,10 +43,10 @@ const LucioGomez = {
     <li>NodeJs</li>
     <li>Express</li>
     <li>Sequelize</li>
-    <li>Passport</li>
+    <li>PostgresSQL</li>
 </ul>
 
-
-
+<h3>Vision General:<h3>
+![](https://github.com/LucioGomez/LucioGomez/blob/main/assets/countries/presentacion.gif)
 </div>
 &nbsp;&nbsp;
