@@ -51,4 +51,25 @@ const LucioGomez = {
 ![](https://github.com/LucioGomez/LucioGomez/blob/main/assets/countries/presentacion.gif)
   
 </div>
+  
+  <div>
+ 
+  <hr/>
+
+<h2> Me podes contactar en: </h2>
+
+<p>
+    <a href="https://www.linkedin.com/in/lucio-gomez/">
+      <h1>Linkedin</h1>
+    </a>
+    <a >
+       <h1>Mail: Luciotony25@gmail.com</h1>
+    </a>
+     
+    </a>
+<p/>
+
+<hr/>
+
+  </div>
 &nbsp;&nbsp;
