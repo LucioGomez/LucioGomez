@@ -22,11 +22,31 @@ const LucioGomez = {
           {JavaScript: ['React', 'React-Native', 'Redux']}
         ]
     },
-  Proyects: [
-      {CountriesApp: ['React-Native', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'PostgreSQL']},
-    ],
   FutureTecnologies: ['MogoDB', 'Angular', 'Java'],
 }
 ```
 
+
+<div> 
+  <h1>Proyectoss</h1>
+  <br>
+<h2> Countries App  </h2>
+
+![](https://github.com/LucioGomez/LucioGomez/blob/main/assets/PI%20COUNTRIES.gif)
+
+<h4> Desarrollada con: </h4>
+<ul>
+  <h5>|--| FrontEnd |--|</h5>
+    <li>React</li>
+    <li>Redux</li>
+  <h5>|--| BackEnd |--|</h5>
+    <li>NodeJs</li>
+    <li>Express</li>
+    <li>Sequelize</li>
+    <li>Passport</li>
+</ul>
+
+
+
+</div>
 &nbsp;&nbsp;
