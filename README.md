@@ -16,7 +16,7 @@
 const LucioGomez = {
   Skills: {
       BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'PostgreSQL', 'TypeScript', 'MogoDB', Mongoose]},
+          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'PostgreSQL', 'TypeScript', 'MogoDB', 'Mongoose']},
         ],
       FrontEnd: [
           {JavaScript: ['React', 'React-Native', 'Redux']}
