@@ -61,10 +61,11 @@ const LucioGomez = {
 ![](https://github.com/LucioGomez/LucioGomez/blob/main/assets/presentacon.gif)
    <br>
   <h1><a href="https://github.com/LucioGomez/Proyecto-Final">Repositorio</a></h1>
-  
+   
+![](https://github.com/LucioGomez/LucioGomez/blob/main/assets/Tecnologias.gif)
+
 <h4> Desarrollada con: </h4>
 <ul>
- ![](https://github.com/LucioGomez/LucioGomez/blob/main/assets/presentacon.gif)
   <h5>|--| FrontEnd |--|</h5>
     <li>React</li>
     <li>Redux</li>
