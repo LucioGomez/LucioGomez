@@ -76,9 +76,7 @@ const LucioGomez = {
     <li>MongoDB ATLAS</li>
 </ul> 
     <div>
-      <ahref="https://youtu.be/UvXPceB7RCM">Puedes ver una vision general entrando en el siguiente link</a>
-
-      </img>
+      <a href="https://youtu.be/UvXPceB7RCM">Puedes ver una vision general entrando en el siguiente link</a>
     </div>
 </div>
   
@@ -89,7 +87,7 @@ const LucioGomez = {
 <h2> Me podes contactar en: </h2>
 
 <p>
-    <a href="https://www.linkedin.com/in/lucio-gomez/">
+  <a href="https://www.linkedin.com/in/lucio-gomez/">Pueder ver una vision general entrando al siguiente link </a>
       <h1>Linkedin</h1>
     </a>
     <a >
