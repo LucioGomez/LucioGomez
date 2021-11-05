@@ -32,7 +32,7 @@ const LucioGomez = {
 <h2> Countries App  </h2>
 
   
-![](https://github.com/LucioGomez/LucioGomez/blob/main/assets/PI%20COUNTRIES.gif)
+![https://github.com/LucioGomez/LucioGomez/blob/main/assets/Tecnologias.gif](https://github.com/LucioGomez/LucioGomez/blob/main/assets/PI%20COUNTRIES.gif)
    <br>
   <h1><a href="https://github.com/LucioGomez/-PI-COUNTRIES-FT15a">Repositorio</a></h1>
   
