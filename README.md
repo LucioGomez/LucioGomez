@@ -63,7 +63,9 @@ const LucioGomez = {
   <h1><a href="https://github.com/LucioGomez/Proyecto-Final">Repositorio</a></h1>
    
 ![](https://github.com/LucioGomez/LucioGomez/blob/main/assets/Tecnologias.gif)
-
+    <div>
+      <h2>Puedes ver una vision general entrando en el siguiente  <a href="https://youtu.be/UvXPceB7RCM"> link</a></h2>
+    </div>
 <h4> Desarrollada con: </h4>
 <ul>
   <h5>|--| FrontEnd |--|</h5>
@@ -75,9 +77,7 @@ const LucioGomez = {
     <li>Moongose</li>
     <li>MongoDB ATLAS</li>
 </ul> 
-    <div>
-      <h2>Puedes ver una vision general entrando en el siguiente  <a href="https://youtu.be/UvXPceB7RCM"> link</a></h2>
-    </div>
+
 </div>
   
   <div>
@@ -87,9 +87,8 @@ const LucioGomez = {
 <h2> Me podes contactar en: </h2>
 
 <p>
-      <h1>Linkedin</h1>
-      <a href="https://www.linkedin.com/in/lucio-gomez/">Linkedin</a>
-    <a >
+     <a href="https://www.linkedin.com/in/lucio-gomez/">Linkedin</a>
+    <a>
        <h1>Mail: Luciotony25@gmail.com</h1>
     </a>
 
