@@ -87,8 +87,8 @@ const LucioGomez = {
 <h2> Me podes contactar en: </h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/lucio-gomez/">Pueder ver una vision general entrando al siguiente link </a>
       <h1>Linkedin</h1>
+      <a href="https://www.linkedin.com/in/lucio-gomez/">Linkedin
     </a>
     <a >
        <h1>Mail: Luciotony25@gmail.com</h1>
