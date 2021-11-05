@@ -76,7 +76,7 @@ const LucioGomez = {
     <li>MongoDB ATLAS</li>
 </ul> 
     <div>
-![https://github.com/LucioGomez/LucioGomez/blob/main/assets/Tecnologias.jpg]()
+  <img src="https://github.com/LucioGomez/LucioGomez/blob/main/assets/Tecnologias.jpg"> </img>
     </div>
 </div>
   
