@@ -76,7 +76,7 @@ const LucioGomez = {
     <li>MongoDB ATLAS</li>
 </ul> 
     <div>
-      <a href="https://youtu.be/UvXPceB7RCM">Puedes ver una vision general entrando en el siguiente link</a>
+      <h2 href="https://youtu.be/UvXPceB7RCM">Puedes ver una vision general entrando en el siguiente link</h2>
     </div>
 </div>
   
