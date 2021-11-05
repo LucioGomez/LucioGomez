@@ -75,7 +75,9 @@ const LucioGomez = {
     <li>Moongose</li>
     <li>MongoDB ATLAS</li>
 </ul> 
-  
+    <div>
+    [![Watch the video](https://img.youtube.com/vi/UvXPceB7RCM/maxresdefault.jpg)](https://www.youtube.com/watch?v=UvXPceB7RCM)
+    </div>
 </div>
   
   <div>
