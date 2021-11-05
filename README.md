@@ -76,7 +76,7 @@ const LucioGomez = {
     <li>MongoDB ATLAS</li>
 </ul> 
     <div>
-      <h2 href="https://youtu.be/UvXPceB7RCM">Puedes ver una vision general entrando en el siguiente link</h2>
+      <h2>Puedes ver una vision general entrando en el siguiente  <a href="https://youtu.be/UvXPceB7RCM"> link</a></h2>
     </div>
 </div>
   
@@ -88,8 +88,7 @@ const LucioGomez = {
 
 <p>
       <h1>Linkedin</h1>
-      <a href="https://www.linkedin.com/in/lucio-gomez/">Linkedin
-    </a>
+      <a href="https://www.linkedin.com/in/lucio-gomez/">Linkedin</a>
     <a >
        <h1>Mail: Luciotony25@gmail.com</h1>
     </a>
