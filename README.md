@@ -64,7 +64,7 @@ const LucioGomez = {
    
 ![](https://github.com/LucioGomez/LucioGomez/blob/main/assets/Tecnologias.gif)
     <div>
-      <h2>Puedes ver ver la pagina depliyada en el siguiente  <a href="https://proyecto-final-one.vercel.app/"> link</a></h2>
+      <h2>Puedes ver ver la pagina deployada en el siguiente  <a href="https://proyecto-final-one.vercel.app/"> link</a></h2>
       </div>
       <div>
       <h2>Puedes ver una vision general entrando en el siguiente  <a href="https://youtu.be/UvXPceB7RCM"> link</a></h2>
